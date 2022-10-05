@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['24106813542'] //ur owner number
-global.ownername = "YARANUSTRAS " //ur owner name
+global.vcardowner = ['923084713397'] //ur owner number
+global.ownername = "𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒 " //ur owner name
 global.ytname = "YT: Nero" //ur yt chanel name
 global.socialm = "GitHub: Nero" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Pakistan" //ur location
 
 //bot bomdy 
-global.owner = ['24106813542']
-global.ownertag = '24106813542' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 YARANOS✫ ✫ ✫' //ur bot name
+global.owner = ['923084713397']
+global.ownertag = '923084713397' //ur tag number
+global.botname = '𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒' //ur bot name
 global.linkz = "https://github.com/ESSOYA/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/ESSOYA/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/ESSOYA/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😉" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "bot-𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒 " //ur sticker watermark packname
 global.author = "Kaveesha sithum" //ur sticker watermark author
 
 //Bot theme media
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['234089700175'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -106,8 +106,8 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    admin: 'are u admin dumb mf?!',
+    botAdmin: 'make bot admin, bratt!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
@@ -117,7 +117,7 @@ global.mess = {
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'u son of a pervert bitch, nsfw isnt active here',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
